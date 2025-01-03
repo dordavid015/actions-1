@@ -19,4 +19,4 @@ jobs:
            ./ascii-script.sh
 
         - name: List Repo Files
-          run: ls -ltra
+          run: ls -ltra 
